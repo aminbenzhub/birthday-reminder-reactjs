@@ -6,4 +6,4 @@
 
 ### live preview 
 
-https://birthdays-reminder-reactjs.netlify.app
+https://birthdaysreminder-reactjs.netlify.app
